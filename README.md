@@ -1,16 +1,9 @@
-# Title
+# Getting Started With Redux
 
 ## Learning Goals
 
--SWBAT 1
--SWBAT 2
+Get (re)-introduced to redux with Dan Abramov.
 
-## Introduction
+Watch the [Video Series](https://egghead.io/courses/getting-started-with-redux) on redux. It's about 2 hours of 2-8 min videos.
 
-## SWBAT 1
-
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+As you watch, try to write code samples that match up to the examples demonstrated in the videos.
